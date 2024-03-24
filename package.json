@@ -1,10 +1,10 @@
 {
-  "name": "namastereact",
+  "name": "react-project",
   "version": "1.0.0",
-  "description": "This is a live Course",
+  "description": "This is a Food App",
   "scripts": {
-    "start": "parcel  public/index.html",
-    "build": "parcel build public/index.html",
+    "start": "parcel  index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "author": "Pavan Sagar",
